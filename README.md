@@ -119,8 +119,8 @@ Our team applied both **diagnostic** and **predictive analytics** to uncover dat
 ---
 
 ##  License
-This project is released under the **MIT License**.  
-Data used is anonymised and solely for academic purposes.
+This project is for academic and portfolio purposes only.  
+All rights reserved. No part of this project, including code, data, or visualisations, may be copied, reused, or redistributed without written permission from the authors.
 
 ---
 
