@@ -35,6 +35,25 @@ Our team applied both **diagnostic** and **predictive analytics** to uncover dat
 | **Targeting** | Behavioural segmentation & channel alignment | Tableau, Power BI |
 | **Ask** | Gap analysis & Random Forest regression for optimal ask prediction | Python, SHAP |
 
+## 📋 Overview of Datasets
+
+| Dataset Name | Description & Purpose | Role in Analysis | Relation to Others (Pre-Merge) |
+|---------------|----------------------|------------------|--------------------------------|
+| `df_audiences` | Core campaign data including supporter segments and test flags | Defines targeting strategies and supporter attributes | Shares common ID with demographics |
+| `df_demographics` | Supporter background info (age, gender, country, etc.) | Provides socio-demographic insights | Can be linked to audiences via SupporterID |
+| `df_contacted` | Records of each outbound contact event per supporter | Used to analyse contact frequency, channel, and strategy | Related to response and portal datasets |
+| `df_responses` | Records of each response including donation amount and inbound channel | Measures engagement and effectiveness of outreach | Connects logically to contact records |
+| `df_portal` | Login records of supporters to the digital portal | Evaluates digital engagement and online behaviour | Tied to contact/response via shared IDs |
+| `df_childletter` | Interaction records between supporter and sponsored child via letters | Potential for modelling emotional engagement | Supplementary; shares ID with core datasets |
+
+**Dataset shapes (pre-cleaning):**
+audience: (879,909 × 15)
+children: (19,646 × 4)
+contact: (1,896,182 × 13)
+portal: (834,490 × 3)
+responses: (593,711 × 8)
+demographics: (150,990 × 13)
+
 ---
 
 ##  Key Findings
