@@ -46,18 +46,19 @@ Our team applied both **diagnostic** and **predictive analytics** to uncover dat
 | `df_portal` | Login records of supporters to the digital portal | Evaluates digital engagement and online behaviour | Tied to contact/response via shared IDs |
 | `df_childletter` | Interaction records between supporter and sponsored child via letters | Potential for modelling emotional engagement | Supplementary; shares ID with core datasets |
 
-**Dataset shapes (pre-cleaning):**
-audience: (879,909 × 15)
+**Dataset shapes row x column (pre-cleaning):**
 
-children: (19,646 × 4)
+- audience: (879,909 × 15)
 
-contact: (1,896,182 × 13)
+- children: (19,646 × 4)
 
-portal: (834,490 × 3)
+- contact: (1,896,182 × 13)
 
-responses: (593,711 × 8)
+- portal: (834,490 × 3)
 
-demographics: (150,990 × 13)
+- responses: (593,711 × 8)
+
+- demographics: (150,990 × 13)
 
 ---
 
