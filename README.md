@@ -1,6 +1,6 @@
-# 🎯 Deakin × World Vision Australia — Bounceback Campaign Analysis
+#  Deakin × World Vision Australia — Bounceback Campaign Analysis
 
-## 📘 Overview
+##  Overview
 This project was conducted as part of the MIS779 *Decision Analytics in Practice* unit at Deakin University, in collaboration with **World Vision Australia (WVA)**.  
 The analysis focuses on optimising WVA’s **Bounceback Campaign**, which aims to re-engage lapsed child sponsorship donors through personalised, multi-channel communications.
 
@@ -8,7 +8,7 @@ Our team applied both **diagnostic** and **predictive analytics** to uncover dat
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Evaluate supporter engagement patterns and donation behaviours.
 - Optimise the **journey** (timing and frequency of contact) for higher response rates.
 - Align **targeting** strategies with donor communication preferences.
@@ -16,7 +16,7 @@ Our team applied both **diagnostic** and **predictive analytics** to uncover dat
 
 ---
 
-## 🧩 Methodology
+##  Methodology
 
 ### 1. Data Preparation
 - Merged datasets from communications, donations, demographics, and engagement.
@@ -37,14 +37,14 @@ Our team applied both **diagnostic** and **predictive analytics** to uncover dat
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
-### 🕒 Journey – Optimise Timing & Contact Volume
+###  Journey – Optimise Timing & Contact Volume
 - Donor response **peaked at the 2nd contact**; declines after excessive outreach.  
 - **12–14 days** is the optimal interval between contacts to maximise engagement.  
 - Random Forest classification achieved **93% precision**, enabling accurate supporter segmentation (High → Low tiers).
 
-### 🎯 Targeting – Align Channels with Behaviour
+###  Targeting – Align Channels with Behaviour
 - Many digitally active supporters are still receiving offline communications.  
 - Donors **under 50** prefer online channels, while **60+** donors respond better to offline.  
 - Aligning stream assignments with actual digital behaviour improves engagement and cost-efficiency.
