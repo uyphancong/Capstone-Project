@@ -48,10 +48,15 @@ Our team applied both **diagnostic** and **predictive analytics** to uncover dat
 
 **Dataset shapes (pre-cleaning):**
 audience: (879,909 × 15)
+
 children: (19,646 × 4)
+
 contact: (1,896,182 × 13)
+
 portal: (834,490 × 3)
+
 responses: (593,711 × 8)
+
 demographics: (150,990 × 13)
 
 ---
