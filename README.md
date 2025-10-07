@@ -99,14 +99,14 @@ Our team applied both **diagnostic** and **predictive analytics** to uncover dat
 ---
 
 ##  Team Members
-| Name | Student ID |
-|------|-------------|
-| Ha Cam Nguyen | s223546667 |
-| Uy Cong Phan | s223626353 |
-| Andrea Aponsu | s224072494 |
-| Thilini Munasinghe | s223733272 |
-| Siteng Zhou | s224803109 |
-| Adithya Anuradhanayake | s224242915 |
+| Name |
+|------|
+| Ha Cam Nguyen | 
+| Uy Cong Phan | 
+| Andrea Aponsu | 
+| Thilini Munasinghe |
+| Siteng Zhou | 
+| Adithya Anuradhanayake |
 
 ---
 
