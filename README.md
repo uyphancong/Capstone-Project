@@ -126,4 +126,4 @@ All rights reserved. No part of this project, including code, data, or visualisa
 
 ##  Contact
 **Contributor:** [Uy Phan (Phan Cong Uy)](https://www.linkedin.com/in/phan-cong-uy-b0ab60124/)  
-📧 Email: s223626353@deakin.edu.au  
+📧 Email: phanconguy.au@gmail.com
